@@ -3,8 +3,7 @@ version: 2
 template:
     name: Delivery Insights
     description: Delivery Insights for UrbanCode provides deployment metrics as well as Insightful dashboarding for your DevOps Transformation
-    image:icon.svg
-    icon: icon.png
+ 
 toolchain:
     name: Delivery Insights
     description: Delivery Insights for UrbanCode provides deployment metrics as well as Insightful dashboarding for your DevOps Transformation
