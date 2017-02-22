@@ -1,7 +1,7 @@
 version: 2
 
 template:
-    header: '![](template.png)'
+    header: '![](template.png "header image")'
     icon: icon.svg
     name: Delivery Insights
     description: Delivery Insights for UrbanCode provides deployment metrics as well as Insightful dashboarding for your DevOps Transformation
