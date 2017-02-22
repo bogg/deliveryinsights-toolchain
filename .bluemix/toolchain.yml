@@ -1,7 +1,4 @@
 version: 2
-default_locale:
-locales:
-    $ref: locales.yml
 
 template:
     name: Delivery Insights
