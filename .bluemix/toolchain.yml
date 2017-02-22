@@ -13,6 +13,5 @@ toolchain:
 services:
     dra:
       service_id: draservicebroker
-
     ucd:
       service_id: urbancodedeploy
